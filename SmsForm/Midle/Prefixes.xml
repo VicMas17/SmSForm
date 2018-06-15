@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<prefixes>
+  <segment
+     from="5730" to="5739" carrier="Claro" />
+  <segment
+     from="5740" to="5749" carrier="Claro" />
+  <segment 
+      from="5750" to="5759" carrier="Claro" /> 
+  <segment 
+      from="5780" to="5789" carrier="Claro"/>
+    <segment 
+      from="5800" to="5809" carrier="Claro"/> 
+  <segment 
+      from="7690" to="7699" carrier="Movistar"/> 
+  <segment 
+      from="7700" to="7709" carrier="Movistar"/>   
+  <segment 
+      from="7710" to="7719" carrier="Movistar"/>
+  <segment 
+      from="7720" to="7729" carrier="Movistar"/>
+  <segment
+     from="7820" to="7829" carrier="movistar"/>
+     <segment 
+      from="7750" to="7759" carrier="Movistar"/> 
+    <segment 
+      from="7870" to="7879" carrier="Movistar"/> 
+    <segment 
+      from="7880" to="7889" carrier="Movistar"/> 
+  <segment 
+      from="8150" to="8159" carrier="Movistar"/> 
+  <segment
+     from="8170" to="8179" carrier="Movistar" />
+  <segment 
+      from="8260" to="8269" carrier="Movistar"/> 
+  <segment 
+      from="8320" to="8329" carrier="Movistar"/> 
+  <segment 
+      from="8330" to="8339" carrier="Claro"/>
+  <segment 
+      from="8350" to="8369" carrier="Claro"/>
+  <segment 
+      from="8370" to="8399" carrier="Movistar"/> 
+  <segment 
+      from="8400" to="8449" carrier="Claro"/>
+  <segment 
+      from="8450" to="8489" carrier="Movistar"/> 
+  <segment 
+      from="8490" to="8499" carrier="Claro"/> 
+  <segment 
+      from="8500" to="8549" carrier="Claro"/>
+  <segment 
+      from="8550" to="8559" carrier="Movistar"/> 
+  <segment 
+      from="8590" to="8599" carrier="Movistar"/> 
+  <segment 
+      from="8600" to="8669" carrier="Claro"/>
+  <segment 
+      from="8670" to="8689" carrier="Movistar"/> 
+  <segment 
+      from="8690" to="8699" carrier="Claro"/> 
+  <segment 
+      from="8700" to="8749" carrier="Claro"/> 
+  <segment 
+      from="8750 " to="8779" carrier="Movistar"/> 
+  <segment 
+      from="8800" to="8819" carrier="Movistar"/> 
+  <segment 
+      from="8820" to="8859" carrier="Claro"/>
+  <segment 
+      from="8860" to="8899" carrier="Movistar"/> 
+  <segment 
+      from="8900" to="8949" carrier="Claro"/> 
+  <segment 
+      from="8950" to="8979" carrier="Movistar"/> 
+  <segment 
+      from="8990" to="8999" carrier="Movistar"/> 
+</prefixes> 
